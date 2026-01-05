@@ -1,0 +1,94 @@
+{
+  "risks": [
+    {
+      "id": 1,
+      "segment": "Segment A",
+      "seed": 1,
+      "riskScore": 37,
+      "topRiskSegment": "Segment A",
+      "overloadProbability": 0.37,
+      "recommendation": "NIEDRIG"
+    },
+    {
+      "id": 2,
+      "segment": "Segment B",
+      "seed": 2,
+      "riskScore": 74,
+      "topRiskSegment": "Segment B",
+      "overloadProbability": 0.74,
+      "recommendation": "HOCH"
+    },
+    {
+      "id": 3,
+      "segment": "Segment C",
+      "seed": 3,
+      "riskScore": 11,
+      "topRiskSegment": "Segment C",
+      "overloadProbability": 0.11,
+      "recommendation": "NIEDRIG"
+    },
+    {
+      "id": 4,
+      "segment": "Segment D",
+      "seed": 4,
+      "riskScore": 48,
+      "topRiskSegment": "Segment D",
+      "overloadProbability": 0.48,
+      "recommendation": "MITTEL"
+    },
+    {
+      "id": 5,
+      "segment": "Segment E",
+      "seed": 5,
+      "riskScore": 85,
+      "topRiskSegment": "Segment E",
+      "overloadProbability": 0.85,
+      "recommendation": "HOCH"
+    },
+    {
+      "id": 6,
+      "segment": "Segment F",
+      "seed": 6,
+      "riskScore": 22,
+      "topRiskSegment": "Segment F",
+      "overloadProbability": 0.22,
+      "recommendation": "NIEDRIG"
+    },
+    {
+      "id": 7,
+      "segment": "Segment G",
+      "seed": 7,
+      "riskScore": 59,
+      "topRiskSegment": "Segment G",
+      "overloadProbability": 0.59,
+      "recommendation": "MITTEL"
+    },
+    {
+      "id": 8,
+      "segment": "Segment H",
+      "seed": 8,
+      "riskScore": 96,
+      "topRiskSegment": "Segment H",
+      "overloadProbability": 0.96,
+      "recommendation": "HOCH"
+    },
+    {
+      "id": 9,
+      "segment": "Segment I",
+      "seed": 9,
+      "riskScore": 33,
+      "topRiskSegment": "Segment I",
+      "overloadProbability": 0.33,
+      "recommendation": "NIEDRIG"
+    },
+    {
+      "id": 10,
+      "segment": "Segment J",
+      "seed": 10,
+      "riskScore": 70,
+      "topRiskSegment": "Segment J",
+      "overloadProbability": 0.70,
+      "recommendation": "MITTEL"
+    }
+  ]
+}
