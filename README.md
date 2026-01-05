@@ -1,0 +1,3 @@
+In the University subject "Automatization of business processes" we had a group project about the automatization of a risk analysis of a hypothetical energy supplier. 
+We used the Camunda platform to build the process using BPMN 2.0, and were tasked with implementing a JSON server as risk analysis black box, creating a dashboard for the process and its KPIs and including Time Shifting.
+This repository only includes the db.json of the slowed down JSON server from https://github.com/lwluc/slowed-down-json-server, and its job worker, which is needed to let Camunda communicate with the JSON server.
